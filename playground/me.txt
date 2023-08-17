@@ -1,6 +1,6 @@
-{{#user}
+{{#JeevaregaiShanmugam}
 Name:Jeevaregai Shanmugam
 Skills:HTML,CSS,JS,Next.js
 Email:jeevaregaishanmugam.25it@licet.ac.in
-{{/user}}
+{{/JeevaregaiShanmugam}
 
